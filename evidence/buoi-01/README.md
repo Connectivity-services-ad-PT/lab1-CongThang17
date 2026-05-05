@@ -4,9 +4,9 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
+- Họ tên: Tạ Công Thắng
+- Mã sinh viên: 1771020625
+- Nhóm: 6a
 - Vai trò dự kiến trong nhóm:
 - Hệ điều hành:
 - Ghi chú:
